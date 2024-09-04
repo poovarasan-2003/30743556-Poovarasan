@@ -56,7 +56,7 @@ Database Setup
 Build and Run
 
 1. Clone the Repository:
-   git clone https://github.com/yourusername/clinical-trial-management-system.git
+   git clone https://github.com/poovarasan-2003/30743556-Poovarasan
    cd clinical-trial-management-system
 
 2. Build with Maven:
